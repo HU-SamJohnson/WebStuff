@@ -1,0 +1,24 @@
+/*
+style.css
+demonstrates basic CSS rules
+*/
+
+h1 {
+ font-family: "Comic Sans MS", "Comic Sans", cursive;
+ color: orange;
+}
+h2 {
+ color: blue;
+}
+p {
+font-family: "Comc Sans MS", "Comic sans", cursive;
+ color:brown;
+ font-size:18pt;
+}
+ol {
+ list-style: upper-roman;
+}
+
+body {
+ background-color: #F0F0F0;
+}
